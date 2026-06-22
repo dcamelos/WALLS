@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Directorio de las miniaturas
-TARGET_DIR="$HOME/Imágenes/Imágenes/mini"
+TARGET_DIR="$HOME/Imágenes/WALLS/mini"
 
 # Verificar si el directorio existe
 if [ ! -d "$TARGET_DIR" ]; then
